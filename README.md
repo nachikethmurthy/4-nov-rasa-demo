@@ -1,4 +1,4 @@
-# RASA Commands
+```# RASA Commands
 conda create --name rasa-chatbot python=3.9
 conda activate rasa-chatbot
 pip install rasa
@@ -10,4 +10,4 @@ rasa init
 
 rasa train
 
-rasa shell  # start chatting with chatbot
+rasa shell  # start chatting with chatbot```
